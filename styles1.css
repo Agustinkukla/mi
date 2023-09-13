@@ -236,9 +236,6 @@ h1 {
   height: 300vh;
 }
 
-
-
-
 .video {
   border: 0.12rem solid #d8d8d8;
   margin-top: 30px;
@@ -322,9 +319,47 @@ body {
 
 /*desktop*/
 @media(min-width:1024px){
+  /*inicio*/
+  .Inicio {
+    height: 90vh;
+  }
+  .mi {
+    height: 50%;
+    width: 20%;
+  }
+  /*frase*/
+  .frase {
+    
+    
+  }
+  .grupal {
+    width: 55%;
+    height: 50%;
+    padding-bottom: 10px;
+    
+  }
+  .frase-texto{
+    font-size: 40px;
+    
+    
+    
+  }
+  .frase-container{
+    padding-top: 40vh;
+    height: 70vh;
+  }
+  /*miembros*/
+  .box {
+    width: 80%;
+    height: 40%;
+  }
+  .card {
+    width: 60%;
+    height: 70%;
+  }
   
   .videos-section h2 {
-    font-size: 10vh;
+    font-size: 5vh;
   }
   .video {
     border: 0.12rem solid #d8d8d8;
