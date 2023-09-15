@@ -1,6 +1,6 @@
 /* Estilos generales */
 body {
-  font-family: Arial, sans-serif;
+    
   margin: 0;
   padding: 0;
 }
@@ -8,7 +8,7 @@ body {
    font-size: 40px;
    color: rgba(134, 61, 22, 0.753);
    margin-bottom: 50px;
-   font-family: 'Kanit', sans-serif;
+  
 }
 
 /*inicio*/
@@ -26,15 +26,25 @@ body {
 
 
 }
-
+.mi h1{
+  color: rgba(134, 61, 22, 0.753);
+  font-family: 'Pacifico', cursive;
+  font-size: 30px;
+}
+.fol {
+  font-family: 'Pacifico', cursive;
+  font-family: 'Playfair Display', serif;
+  color: rgba(134, 61, 22, 0.753);
+  font-size: 28px;
+}
 .mi {
   text-align: center;
   margin-bottom: 100px;
   background-color: #212020;
   width: 200px;
-  height: 200px;
+  min-height: 200px;
   border-radius: 40px;
-
+  font-family: 'Pacifico', cursive;
 }
 
 .logo {
